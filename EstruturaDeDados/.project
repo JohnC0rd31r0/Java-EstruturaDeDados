@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>EstruturaDeDados</name>
+	<comment></comment>
+	<projects>
+		<project>ArvoresBinárias</project>
+		<project>EqualsAndHashcode</project>
+		<project>Fila</project>
+		<project>ListaCircular</project>
+		<project>ListaDuplamenteEncadeada</project>
+		<project>listaEncadeada</project>
+		<project>OrdenacaoDeValores</project>
+		<project>Pilhas</project>
+		<project>Stack</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
